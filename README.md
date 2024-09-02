@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me :
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me : **balakrishnasahu08@gmail.com**
 
