@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **balakrishnasahu08@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[Portfolio]((https://intro-of-my-work.web.app/))**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://intro-of-my-work.web.app/)**
 
 ## 🌐 Socials :
 
