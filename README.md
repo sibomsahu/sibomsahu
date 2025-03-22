@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me :
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Three.JS**
 
 - 📫 How to reach me : **balakrishnasahu08@gmail.com**
 
