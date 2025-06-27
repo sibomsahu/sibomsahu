@@ -61,7 +61,7 @@
 
 <div align="center">
 <a href="https://github.com/sibomsahu?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sibomsahu&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="sibomsahu github-readme-stats"/></a>
-<a href="https://github.com/sibomsahu?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sibomsahu&theme=gotham&hide_border=true"  width="46%" alt="sibomsahu github-readme-streak-stats"/></a>
+<a href="https://github.com/sibomsahu?tab=stars"><img src="https://streak-stats.demolab.com/?user=sibomsahu&theme=gotham&hide_border=true"  width="46%" alt="sibomsahu github-readme-streak-stats"/></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibomsahu&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sibomsahu" width="43%" align="center"></a> 
 </div>
 
